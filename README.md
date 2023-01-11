@@ -1,0 +1,1 @@
+This website is designed to showcase my skills and experience as a developer, and features a clean and modern design. The server side is powered by Python Flask which enables the functionalities of contact form for easy communication
